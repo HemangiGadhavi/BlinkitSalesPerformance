@@ -1,5 +1,5 @@
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 The Blinkit Sales Analysis Dashboard is an interactive Power BI project built to analyze sales performance, customer preferences, outlet efficiency, and product distribution across Blinkit's grocery network.
 
@@ -210,19 +210,9 @@ The dataset contains retail and grocery-related information, including:
 
 ---
 
-## 👩‍💻 Author
+## 📬 Contact
 
-**Hemangi Gadhavi**
+### Hemangi Gadhavi
 
-Aspiring Data Analyst skilled in:
-
-- Power BI
-- SQL
-- Excel
-- Python
-- Tableau
-- Data Visualization
-
----
-
-⭐ If you found this project useful, consider giving it a star.
+- LinkedIn: https://www.linkedin.com/in/hemangi-gadhavi-a95995367/)
+- Email: hemangigadhavi152@gmail.com
