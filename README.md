@@ -214,5 +214,5 @@ The dataset contains retail and grocery-related information, including:
 
 ### Hemangi Gadhavi
 
-- LinkedIn: https://www.linkedin.com/in/hemangigadhavi/
+- LinkedIn: www.linkedin.com/in/hemangigadhavi
 - Email: hemangigadhavi152@gmail.com
